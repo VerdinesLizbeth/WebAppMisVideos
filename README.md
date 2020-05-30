@@ -42,4 +42,7 @@ Zeit.co y Github
  -Para validar las cadenas de pruebas .json.
 ## rest api 
  -permite acceder a los datos de tu pagina web desde cualquier aplicacion.
+En esta parte nos muestran los datos de los vídeos, el listado
+De los vídeos que hemos agregado. Esta es una forma de acceder a los datos desde otra aplicación similar
+A Postman.
 # WebAppMisVideos
